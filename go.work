@@ -1,0 +1,19 @@
+go 1.20
+
+use (
+	./arrays-and-slices
+	./concurrency
+	./context
+	./countdown
+	./dependency-injection
+	./hello-world
+	./integers
+	./iteration
+	./maps
+	./pointers
+	./racer
+	./reflection
+	./structs
+	./sync
+	./property-based-tests
+)
