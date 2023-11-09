@@ -10,10 +10,12 @@ use (
 	./integers
 	./iteration
 	./maps
+	./maths
 	./pointers
+	./property-based-tests
 	./racer
+	./reading-files
 	./reflection
 	./structs
 	./sync
-	./property-based-tests
 )
